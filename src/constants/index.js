@@ -76,18 +76,9 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+   
+    ,
+    
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -105,17 +96,14 @@ import {
       icon: threejs,
     },
     {
-      name: "git",
-      icon: git,
+      name: "React JS",
+      icon: reactjs,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
-    },
+      name: "Next js",
+      icon: nextjs,
+    }
+    
   ];
  
   const experiences = [
